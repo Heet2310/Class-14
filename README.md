@@ -1,2 +1,1 @@
-# Class-14
-Assigning lifetime and preventing memory leakage
+# c14-SA
